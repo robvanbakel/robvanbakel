@@ -27,3 +27,5 @@ The app aims to make it easy for employers to create and share work schedules wi
 
 #### Related Repositories
 - [robvanbakel/wip-planner](https://github.com/robvanbakel/wip-planner)
+- [robvanbakel/wip-planner-admin](https://github.com/robvanbakel/wip-planner-admin)
+

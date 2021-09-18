@@ -14,7 +14,7 @@ GoTiny provides a no-nonsense way to generate short links. The website enables t
 
 [Live site](https://avsr.nl) | [Project Details](https://robvanbakel.com/scheduler)
 
-At a former employer, our work schedule was created per week. Every employee got their weekly schedule sent by them via a Slack message by the Planning department. This system worked, but was prone to user error as shift time could vary greatly from day to day without any option to automatically import your work schedule into your phone's calendar. To simplify the lives of my colleagues and myself, I set out to solve this problem.
+At a former employer, our work schedule was created per week. Every employee got their weekly schedule sent by them via a Slack message by the Planning department. To simplify the lives of my colleagues and myself, I created an easy way to import everybody's work schedules into their phone's calendars.
 
 #### Related Repositories
 - [robvanbakel/scheduler-slack-bot](https://github.com/robvanbakel/scheduler-slack-bot)
@@ -23,7 +23,7 @@ At a former employer, our work schedule was created per week. Every employee got
 
 [Live site](http://planner.robvanbakel.com)
 
-The app aims to make it easy for employers to create and share work schedules with their employees. Employees will be notified when their schedule changes and will be prompted to approve the updates before they are automatically added to their phone's calendar.
+The app aims to make it easy for employers to create and share work schedules with their employees. Employees will be notified when their schedule changes and will be prompted to approve the updates before they are automatically added to their phone's calendars.
 
 #### Related Repositories
 - [robvanbakel/wip-planner](https://github.com/robvanbakel/wip-planner)

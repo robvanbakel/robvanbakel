@@ -19,13 +19,12 @@ At a former employer, our work schedule was created per week. Every employee got
 #### Related Repositories
 - [robvanbakel/scheduler-slack-bot](https://github.com/robvanbakel/scheduler-slack-bot)
 
-## [Work in Progress] Planner
+## Spark
 
-[Live site](http://planner.robvanbakel.com)
+[Demo](https://demo.sparkscheduler.com)
 
-The app aims to make it easy for employers to create and share work schedules with their employees. Employees will be notified when their schedule changes and will be prompted to approve the updates before they are automatically added to their phone's calendars.
+Spark aims to make it easy for employers to create and share work schedules with their employees. Employees will be notified when their schedule changes and will be prompted to approve the updates before they are automatically added to their phone's calendars.
 
 #### Related Repositories
-- [robvanbakel/wip-planner](https://github.com/robvanbakel/wip-planner)
-- [robvanbakel/wip-planner-admin](https://github.com/robvanbakel/wip-planner-admin)
-
+- [robvanbakel/spark](https://github.com/robvanbakel/spark)
+- [robvanbakel/spark-admin](https://github.com/robvanbakel/spark-admin)

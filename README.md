@@ -14,7 +14,7 @@ GoTiny provides a no-nonsense way to generate short links. The website enables t
 
 [Demo](https://demo.sparkscheduler.com) | [Project Details](https://robvanbakel.com/spark)
 
-Spark aims to make it easy for employers to create and share work schedules with their employees. Weekly schedules can be made in the app, which are then being pushed to a calendar feed that employees can subscribe to.
+Spark aims to make it easy for employers to manage their staff, as well as create and share work schedules with their employees. Weekly schedules can be made in the app, which are then being pushed to a calendar feed that employees can subscribe to.
 
 #### Related Repositories
 - [robvanbakel/spark](https://github.com/robvanbakel/spark)

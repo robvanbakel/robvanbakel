@@ -10,15 +10,6 @@ GoTiny provides a no-nonsense way to generate short links. The website enables t
 - [robvanbakel/gotiny-website](https://github.com/robvanbakel/gotiny-website)
 - [robvanbakel/gotiny-discord-bot](https://github.com/robvanbakel/gotiny-discord-bot)
 
-## Scheduler
-
-[Live site](https://avsr.nl) | [Project Details](https://robvanbakel.com/scheduler)
-
-At a former employer, our work schedule was created per week. Every employee got their weekly schedule sent by them via a Slack message by the Planning department. To simplify the lives of my colleagues and myself, I created an easy way to import everybody's work schedules into their phone's calendars.
-
-#### Related Repositories
-- [robvanbakel/scheduler-slack-bot](https://github.com/robvanbakel/scheduler-slack-bot)
-
 ## Spark
 
 [Demo](https://demo.sparkscheduler.com) | [Project Details](https://robvanbakel.com/spark)
@@ -28,3 +19,12 @@ Spark aims to make it easy for employers to create and share work schedules with
 #### Related Repositories
 - [robvanbakel/spark](https://github.com/robvanbakel/spark)
 - [robvanbakel/spark-admin](https://github.com/robvanbakel/spark-admin)
+
+## Scheduler
+
+[Live site](https://avsr.nl) | [Project Details](https://robvanbakel.com/scheduler)
+
+At a former employer, our work schedule was created per week. Every employee got their weekly schedule sent by them via a Slack message by the Planning department. To simplify the lives of my colleagues and myself, I created an easy way to import everybody's work schedules into their phone's calendars.
+
+#### Related Repositories
+- [robvanbakel/scheduler-slack-bot](https://github.com/robvanbakel/scheduler-slack-bot)

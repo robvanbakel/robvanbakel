@@ -9,6 +9,7 @@ GoTiny provides a no-nonsense way to generate short links. The website enables t
 - [robvanbakel/gotiny-sdk](https://github.com/robvanbakel/gotiny-sdk)
 - [robvanbakel/gotiny-website](https://github.com/robvanbakel/gotiny-website)
 - [robvanbakel/gotiny-discord-bot](https://github.com/robvanbakel/gotiny-discord-bot)
+- [robvanbakel/gotiny-slack-bot](https://github.com/robvanbakel/gotiny-slack-bot)
 
 ## Spark
 

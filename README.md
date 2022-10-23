@@ -2,7 +2,7 @@
 
 [Live site](https://gotiny.cc) | [Project Details](https://robvanbakel.com/gotiny)
 
-GoTiny provides a no-nonsense way to generate short links. The website enables the user to transform any long url to a short and easily shareable link, with just one click. Speed and ease of use are GoTiny's core values and that's noticeable for both the end user as well as developers. GoTiny is also available on NPM.
+GoTiny provides a no-nonsense way to generate short links. The website enables the user to transform any long url to a short and easily shareable link, with just one click. Speed and ease of use are GoTiny's core values and that's noticeable for both the end user as well as developers. GoTiny's JavaScript SDK is also available on NPM.
 
 #### Related Repositories
 - [robvanbakel/gotiny-api](https://github.com/robvanbakel/gotiny-api)
